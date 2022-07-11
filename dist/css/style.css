@@ -38,7 +38,7 @@ nav {
 
 .navigation {
   display: flex;
-  justify-content: rigth;
+  justify-content: right;
   gap: 1.25em;
   list-style-type: none;
   margin-top: 0;
